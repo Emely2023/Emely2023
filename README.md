@@ -3,8 +3,6 @@
 🎓 Estudiante de **Desarrollo de Software**  
 💻 Actualmente trabajando en proyectos con **React.js, Tailwind CSS, CSS puro y APIs REST**  
 🛠️ Experiencia con **MongoDB, Node.js y CRUD completos**  
-📚 Construyendo mi portafolio mientras aprendo más sobre **IA y ciencia de datos**  
-
 ---
 
 ## 🛠️ Tecnologías
