@@ -1,6 +1,6 @@
 # 👋 Hola, soy Emely 
 
-🎓 Estudiante de ** Desarrollo de Software y Ciencia de Datos**  
+🎓 Estudiante de **Desarrollo de Software**  
 💻 Actualmente trabajando en proyectos con **React.js, Tailwind CSS, CSS puro y APIs REST**  
 🛠️ Experiencia con **MongoDB, Node.js y CRUD completos**  
 📚 Construyendo mi portafolio mientras aprendo más sobre **IA y ciencia de datos**  
@@ -15,7 +15,3 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📊 Stats
-![Emely's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emely2023&show_icons=true&theme=radical)
